@@ -1,5 +1,10 @@
 # Govind Buttar's First CS193 Homework
 
+- one thing that is cool about cs193 is that it is low stakes
+- it is a funny class
+- everyone can learn together with no judgement
+- we get to learn about programming tools, while although they are refreshers, having a refresher is nice.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
