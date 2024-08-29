@@ -1,4 +1,4 @@
-# Govind Buttar's First CS193 Project 
+# Govind Buttar's First CS193 Homework
 
 ## Welcome to GitHub Pages
 
